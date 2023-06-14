@@ -1,2 +1,2 @@
 # greenhouse
-E726 greenhouse project
+Arduino based greenhouse with web controls integration.
